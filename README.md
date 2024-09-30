@@ -1,4 +1,4 @@
-Here is a possible README for your GitHub project:
+
 
 Banksy's Vault
 
